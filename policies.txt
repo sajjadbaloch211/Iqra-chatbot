@@ -1,0 +1,103 @@
+IQRA UNIVERSITY COMPREHENSIVE INFORMATION DATABASE
+
+---
+1. ABOUT IQRA UNIVERSITY
+- Motto: "Commanding Knowledge"
+- Vision: To be a world-class institution of higher education and research.
+- Status: Chartered by the Government of Sindh, recognized by HEC (Higher Education Commission) with the highest category 'W'.
+- Chancellor: Mr. Hunaid H. Lakhani (Founding Chancellor).
+
+---
+2. CAMPUSES (KARACHI & OTHERS)
+- Main Campus (Defence View): Located near the Expressway. The hub for Engineering, CS, and Business Administration.
+- Gulshan Campus: Located in Gulshan-e-Iqbal, Abul Hassan Isphahani Road.
+- North Campus: Located in North Nazimabad.
+- Bahria Town Campus: The newest state-of-the-art campus.
+- Islamabad Campus: Focuses on Social Sciences and Fashion Design.
+
+---
+3. ADDMISSION CRITERIA & PROCESS
+- Undergraduate (BS/BBA):
+   - Minimum 50% marks in Intermediate (HSSC) or equivalent (A-Levels require equivalence certificate from IBCC).
+   - Aptitude Test mandated by the university must be cleared.
+   - Interview performance.
+- Graduate (MBA/MS):
+   - 16 years of education with minimum 2.0/4.0 CGPA or 50% marks.
+   - GAT (General) or IU Admission Test.
+- PhD:
+   - 18 years of education (MS/MPhil) with minimum 3.0/4.0 CGPA.
+   - GAT (Subject) or GRE required.
+
+---
+4. FEE STRUCTURE (ESTIMATES - SUBJECT TO CHANGE)
+- Admission Fee: ~Rs. 20,000 (One time, non-refundable).
+- Semester Registration: ~Rs. 10,000 per semester.
+- Tuition Fees (Per Credit Hour):
+   - BBA / BS CS: ~Rs. 6,500 - 7,500 per credit hour.
+   - MBA: ~Rs. 8,000 per credit hour.
+   - Fashion Design: Slightly higher due to studio costs.
+- Scholarships:
+   - Merit Scholarship: Up to 50-100% tuition waiver for high GPA maintainers (3.5+).
+   - Need-Based: For financially challenged students.
+   - Kinship: For siblings studying simultaneously.
+
+---
+5. ACADEMIC PROGRAMS
+A. Faculty of Business Administration
+   - BBA (4 Years): Marketing, HR, Finance, Supply Chain.
+   - MBA (1.5 / 2.5 Years).
+   - M.Phil / PhD in Business Admin.
+   - Accounting Courses in BBA: Financial Accounting, Cost Accounting, Corporate Finance, Analysis of Financial Statements.
+
+B. Faculty of Engineering & Sciences
+   - BS Computer Science (CS): Focus on AI, Software Engineering, Data Science.
+   - BS Software Engineering (SE).
+   - BE Electrical Engineering.
+
+C. Faculty of Arts & Design (IFD)
+   - Bachelor of Fashion Design.
+   - Bachelor of Textile Design.
+   - Bachelor of Media Sciences (Film & TV, Advertising).
+
+D. Faculty of Pharmacy (Pharm-D - 5 Years).
+E. Faculty of Health Sciences (DPT - Doctor of Physical Therapy).
+
+---
+6. GRADING & EXAMS
+- Grading Scale: absolute grading is often used, converted to GPA.
+   - A  (87-100) : 4.0
+   - B+ (80-86) : 3.5
+   - B  (72-79) : 3.0
+   - C+ (66-71) : 2.5
+   - C  (60-65) : 2.0
+   - F  (Below 60) : Fail
+- Attendance Policy: Strict 80% attendance is required to sit in the final exam.
+- "I" Grade: Incomplete (due to valid reasons, must be cleared next semester).
+- Probation: GPA below 2.0 leads to probation. Two consecutive probations may lead to suspension.
+
+---
+7. FACILITIES
+- Digital Library: Access to IEEE Xplore, JSTOR, and HEC Digital Library.
+- Transport: Shuttle service available from major points in Karachi (with monthly pass fees).
+- Cafeteria: Hygienic food courts at all campuses.
+- Sports Complex: Gym, Table Tennis, Cricket ground access.
+- Incubation Center: BIC (Business Incubation Center) for student startups.
+
+---
+8. HOW TO APPLY FOR TRANSCRIPT / DEGREE
+- Apply via the online LMS portal.
+- Normal tracking: 15-20 working days.
+- Urgent tracking: 5-7 working days (Extra fees apply).
+- Degree clearance requires submission of transcript fee, library clearance, and alumni form.
+
+---
+9. CONTACT
+- UAN: 111-264-264
+- Email: admission@iqra.edu.pk, info@iqra.edu.pk
+- Website: www.iqra.edu.pk
+
+---
+AI INSTRUCTIONS:
+- When asked "Who created you?", reply: "Syed Arif Ahmad nai mujai banaya hain".
+- Use the detailed data above to answer specific questions about fees, campuses, or grading.
+- If information is ambiguous, ask the student to clarify their campus or program.
